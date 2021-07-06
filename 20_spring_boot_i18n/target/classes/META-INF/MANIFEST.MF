@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Built-By: asus
+Build-Jdk: 11.0.8
+Implementation-Title: 20_spring_boot_i18n
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.st.spring.boot
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://projects.spring.io/spring-boot/20_spring_boot
+ _i18n/
+Created-By: Maven Integration for Eclipse
+
